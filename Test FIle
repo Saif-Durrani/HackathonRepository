@@ -1,1 +1,8 @@
 print("hello world")
+
+x = input("pick a number")
+
+if x > 5:
+  print("greater than 5")
+else:
+  print("fail")
